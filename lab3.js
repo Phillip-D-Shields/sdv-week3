@@ -144,5 +144,3 @@ switch (true) {
         console.log(`${description} , Final grade is ${result}`);
         break;
 }
-
-
